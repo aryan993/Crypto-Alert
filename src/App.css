@@ -1,0 +1,60 @@
+/*for complete*/
+.tabs {
+  border-width: 1px;
+  border-bottom: 0px;
+  border-color: rgb(140, 137, 137);
+  border-style: solid;
+}
+
+body{
+  background-color: #28282B;
+  color: azure;
+  overflow: hidden;
+}
+
+/* for alert */
+.cont {
+  float: left;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+
+.cont2 {
+  float: right;
+  padding-top: 5px;
+  padding-right: 5px;
+}
+
+.btn2 {
+  padding-bottom: 1px;
+}
+
+button {
+  border-radius: 7px;
+  border-width: 1px;
+}
+
+.price-list {
+  width: 8rem;
+  margin: 5px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  border-radius: 10px;
+  display: inline-block;
+  height: 40px;
+  text-align: center;
+  background-color: rgb(240, 185, 11);
+}
+
+.priced{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  border-bottom: 2px solid gray;
+}
+
+.chartname{
+  margin: 20px;
+  border-bottom: 2px solid gray;
+}

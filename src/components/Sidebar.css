@@ -1,0 +1,39 @@
+.sidebar-table {
+    height: 88vh;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    border-collapse: collapse;
+    margin: none;
+
+}
+
+.sidebar-table::-webkit-scrollbar {
+    display: none;
+}
+
+.coin-app {
+    background-color: #28282B;
+}
+
+.coinlist {
+    color: azure;
+}
+
+th,
+td {
+    border-style: none;
+}
+
+.coin-input {
+    background-color: grey;
+    border-radius: 5px;
+    margin: 7px;
+}
+
+::placeholder {
+    color: rgb(196, 192, 192);
+}
+
+input {
+    padding-left: 20px;
+}
