@@ -1,7 +1,7 @@
 # Crypto Alert
 
-### .This project allows the user to view various cryptocurrencies with their respected charts.
-![](images/index.png)
+### This project allows the user to view various cryptocurrencies with their respected charts.
+![](scrnshots/GOMCAM 20220614_1120470731.png)
 
 ### .Users can access around 100 cryptocurrencies in two different currencies USD and INR.
 
